@@ -13,3 +13,4 @@
 
 בתוך התיקייה צרפנו את קבצי ה c ואת הmakefile  עם תצלומי המסך ומסמך זה.
 
+Richard Ackman, Matan Darwish.
